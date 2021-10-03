@@ -17,6 +17,9 @@
 
     <color name="blue_a200">#448aff</color>
 
+    <color name="red_500">#f44336</color>
+
+    <color name="grey_200">#eeeeee</color>
     <color name="grey_400">#bdbdbd</color>
     <color name="grey_600">#757575</color>
     <color name="grey_900">#212121</color>

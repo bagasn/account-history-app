@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">In-Out Come App</string>
     <string name="welcome">Welcome</string>
+    <string name="content_description_add_outcome">Add Outcome</string>
+    <string name="hint_enter_outcome">Enter Outcome</string>
+    <string name="description">Description</string>
+    <string name="category">Category</string>
+    <string name="submit">Submit</string>
+    <string name="title">Title</string>
+    <string name="item_content">Item Content</string>
+    <string name="add_item">Add Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="week">Week</string>
+    <string name="custom">Custom</string>
 </resources>

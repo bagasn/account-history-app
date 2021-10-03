@@ -1,7 +1,8 @@
-package com.bagasn.inoutcomeapp
+package com.bagasn.inoutcomeapp.ui
 
 import android.content.Intent
 import android.os.Bundle
+import com.bagasn.inoutcomeapp.R
 import com.bagasn.inoutcomeapp.app.AppActivity
 import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.async

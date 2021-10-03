@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_week"
+        android:title="@string/week" />
+
+    <item
+        android:id="@+id/action_month"
+        android:title="@string/month" />
+
+    <item
+        android:id="@+id/action_year"
+        android:title="@string/year" />
+
+    <item
+        android:id="@+id/action_custom"
+        android:title="@string/custom" />
+
+</menu>
